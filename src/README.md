@@ -1,5 +1,6 @@
 use this command to run:
 ./ReConSLS -inst instancefile -seed seed -cutoff cutofftime -min_bms minbms -max_bms maxbms -Waim waim
+
 -inst:  the instance file   (necessary)
 -seed:  seed of the program (necessary)
 -cutoff:    the time allowed to run the program (necessary)
